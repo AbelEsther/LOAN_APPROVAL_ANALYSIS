@@ -1,7 +1,7 @@
 # Loan-Approval-Analysis
 
 ## Notebook used in Data analysis and Model Building
-[loan_approval_analysis.pynb](https://github.com/AbelEsther/Loan-Approval-Analysis/blob/816b87e3a62a75cdaecda581ecb789085a7d7cbe/loan_approval_analysis.ipynb)
+[loan_approval_analysis.pynb](https://github.com/AbelEsther/Loan-Approval-Analysis/blob/639a4c99a0832a4513b61c422823c099ac874c5e/loan_approval_analysis.ipynb)
 
 
 ## Dataset Link
