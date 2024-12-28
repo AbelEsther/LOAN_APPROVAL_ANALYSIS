@@ -1,6 +1,7 @@
-# Loan-Approval-Analysis
+# LOAN APPROVAL ANALYSIS
+## ** CLASSIFICATION MODELLING - Logistic Model, KNN, SVM 
 
-## Notebook used in Data analysis and Model Building
+## Notebook used in Data Analysis and Model Building
 [loan_approval_analysis.pynb](https://github.com/AbelEsther/Loan-Approval-Analysis/blob/639a4c99a0832a4513b61c422823c099ac874c5e/loan_approval_analysis.ipynb)
 
 
